@@ -1,0 +1,11 @@
+/.idea
+/docker-compose.yaml
+*__pycache__
+*.pyc
+
+*.txt
+!requirements.txt
+
+/nlpserver/intent/intent.py
+/nlpserver/rules/*
+!/nlpserver/rules/resources.py

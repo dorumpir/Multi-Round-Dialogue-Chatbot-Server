@@ -1,0 +1,5 @@
+flask
+baidu_aip
+requests
+jieba
+py2neo
