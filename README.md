@@ -2,7 +2,7 @@
 
 ## Description
 
-It is a template of a multi-round dialogue chatbot backend server, supporting intent recognitions, question answering and knowledge graphs and personalized chatbot characters. Notice only the web server provided; models, rules and corpus of textual tasks are emitted. 
+It is a framework of a multi-round dialogue chatbot backend server, supporting intent recognitions, question answering and knowledge graphs and personalized chatbot characters. Notice only the web server provided; models, rules and corpus of textual tasks are emitted. 
 
 ## Deploy
 
